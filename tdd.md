@@ -5,7 +5,7 @@
 **Status:** Draft\
 **Project:** 
 
-Quick project summary
+Brief project summary
 
 ## Problem
 
@@ -24,3 +24,5 @@ Quick project summary
 ## Testing Plan
 
 ## Alternative Approaches
+
+### Alternative Approach 1
