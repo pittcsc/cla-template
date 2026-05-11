@@ -1,7 +1,7 @@
 ### Project Name Technical Design Document
 
 **Author(s):** \
-**Date:** 0\
+**Date:** \
 **Status:** Draft\
 **Project:** 
 
